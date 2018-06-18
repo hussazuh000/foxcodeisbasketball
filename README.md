@@ -12,3 +12,4 @@ The tiger then trotts into the grass and lies down waiting for an antelope.
 ***
 2 minutes later an antelope shows shows up 32.45 degrees west of the tiger.
 ***
+![Image of a tiger](https://hussazuh000.github.io/foxcodeisbasketball/d5f71a1025f36493026c10360319c198.jpg)
